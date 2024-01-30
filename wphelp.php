@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name:       		WP HelpKit
+ * Plugin Name:       		WP Help
  * Plugin URI: 				https://wphelpkit.com
  * Description:       		Your WordPress savior. Get expert assistance for WordPress, themes, or plugins – Hassle-Free.
  * Version:           		0.9.9
- * Author:            		WP HelpKit
+ * Author:            		WP Help
  * Author URI:				https://wphelpkit.com
- * Text Domain:				wphelpkit
+ * Text Domain:				wphelp
  * Domain Path:				/languages/
  * License: 				GPLv2 or later
  * License URI: 			https://www.gnu.org/licenses/gpl-2.0.html
